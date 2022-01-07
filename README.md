@@ -1,6 +1,4 @@
-# my_first_repository
-test repository
+# My First Repositroy
 
 
-
-jordan's edit
+Test repository to try out version control
